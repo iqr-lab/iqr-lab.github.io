@@ -15,6 +15,3 @@ We are a team of scientists, superpets and robotic arms.
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-
-{% include grid.html style="square" content=content %}
