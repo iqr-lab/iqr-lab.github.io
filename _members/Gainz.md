@@ -1,7 +1,7 @@
 ---
 name: Gainz the Good Boy
 image: images/team/Gainz.jpg
-role: Good boy
+role: mascot
 description: A fluff ball that brings you joy
 aliases:
   - Gainnn
