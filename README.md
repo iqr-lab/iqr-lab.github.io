@@ -1,3 +1,5 @@
+Visit **[iqr-lab.github.io](https://iqr-lab.github.io)** 🚀
+
 
 # [Website for the Inquisitive Robotics Lab](https://iqr-lab.github.io)
 
