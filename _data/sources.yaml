@@ -2,6 +2,7 @@
   type: paper
   title: |-
     'What If It Is Wrong': Effects of Power Dynamics and Trust Repair Strategy on Trust and Compliance in HRI
+  # Needs custom title since the double quotation marks mess up the HTML rendering
 
 - id: doi:10.1145/3522579
   type: paper

@@ -1,47 +1,16 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Pointcloud Stitching
+  subtitle: Distributed depth camera system for pointcloud stitching.
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/iqr-lab/pointcloud_stitching
+  description: Scalable, multicamera distributed system for realtime pointcloud stitching in IQR Lab. This program is currently designed to use the D400 Series Intel RealSense depth cameras. Using the librealsense 2.0 SDK, depth frames are grabbed and pointclouds are computed on the edge, before sending the raw XYZRGB values to a central computer over a TCP sockets. The central program stitches the pointclouds together and displays it a viewer using PCL libraries.
+  repo: iqr-lab/pointcloud_stitching
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Grounded Realsense Segment Anything
+  image: images/project_banner.png
+  link: https://github.com/iqr-lab/grounded-realsense-sam
+  description: Application and framework for using Grounded-SAM (Grounded-DINO + SAM) with Realsense camera(s).
+  repo: iqr-lab/grounded-realsense-sam
   tags:
     - software
