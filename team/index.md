@@ -3,8 +3,8 @@ title: Team
 nav:
   order: 4
   tooltip: About our team
-header: images/background_1.jpg
-footer: images/background_1.jpg
+header: images/iqr_background.png
+footer: images/iqr_background.png
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
