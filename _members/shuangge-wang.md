@@ -1,7 +1,7 @@
 ---
 name: Shuangge Wang
 image: images/team/shuangge.jpg
-role: PhD
+role: phd
 description: PhD Student in Computer Science
 links:
   email: shuangge.wang@yale.edu 
