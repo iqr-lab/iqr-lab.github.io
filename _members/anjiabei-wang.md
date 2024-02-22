@@ -7,7 +7,7 @@ links:
   email: anjiabei.wang@yale.edu
   github: real-anjiabei
   linkedin: anjiabei-wang-35687a221/
-  twitter: anjiabei
+  twitter: anjiabei/
 ---
 
 I am a PhD student in Mechanical Engineering & Materials Science at Yale. My focus is on how a robot's behavior can 
