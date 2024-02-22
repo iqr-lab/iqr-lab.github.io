@@ -6,8 +6,8 @@ description: PhD student in Mechanical Engineering & Materials Science
 links:
   email: anjiabei.wang@yale.edu
   github: real-anjiabei
-  linkedin: https://www.linkedin.com/in/anjiabei-wang-35687a221/
-  twitter: https://twitter.com/anjiabei
+  linkedin: anjiabei-wang-35687a221/
+  twitter: anjiabei
 ---
 
 I am a PhD student in Mechanical Engineering & Materials Science at Yale. My focus is on how a robot's behavior can 
