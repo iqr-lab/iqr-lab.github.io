@@ -1,6 +1,6 @@
 ---
 name: Anjiabei Wang
-image: images/team/anjiabei_wang.jpg
+image: images/team/anjiabei.jpeg
 role: phd
 description: PhD student in Mechanical Engineering & Materials Science
 links:
