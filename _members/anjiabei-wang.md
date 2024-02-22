@@ -6,7 +6,7 @@ description: PhD student in Mechanical Engineering & Materials Science
 links:
   email: anjiabei.wang@yale.edu
   github: real-anjiabei
-  linkedin: anjiabei-wang-35687a221/
+  linkedin: anjiabei-wang/
   twitter: anjiabei/
 ---
 
