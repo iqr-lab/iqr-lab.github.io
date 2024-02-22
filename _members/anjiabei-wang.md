@@ -2,7 +2,7 @@
 name: Anjiabei Wang
 image: images/team/anjiabei_wang.jpg
 role: phd
-description: PhD sstudent in Mechanical Engineering & Materials Science
+description: PhD student in Mechanical Engineering & Materials Science
 links:
   email: anjiabei.wang@yale.edu
   github: real-anjiabei
