@@ -12,4 +12,4 @@ links:
 
 I am a PhD student in Mechanical Engineering & Materials Science at Yale. My focus is on how a robot's behavior can 
 influence human feedback, and how human feedback can in turn improve robot learning. I love weight lifting and protein. 
-I am also the mom of Gainz's the good boy!
+I am also the mom of Gainz the Good Boy!
