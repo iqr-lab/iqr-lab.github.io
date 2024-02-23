@@ -4,6 +4,8 @@ image: images/team/tesca.jpg
 role: pi
 aliases:
   - T. Fitzgerald
+  - Tesca Fitzgerald
+  - Fitzgerald
 links:
   home-page: https://www.tescafitzgerald.com
   orcid: 0000-0003-0867-0546
