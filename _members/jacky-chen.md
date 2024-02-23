@@ -1,6 +1,6 @@
 ---
 name: Jacky Chen
-image: images/team/jacky.png
+image: images/team/jacky.jpg
 role: undergrad
 description: Undergraduate Student in Computer Science
 links:
