@@ -1,6 +1,6 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Tesca Fitzgerald
+image: images/team/tesca.jpg
 role: pi
 aliases:
   - T. Fitzgerald
