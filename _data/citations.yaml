@@ -103,11 +103,3 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: Legibility-Aware Learning from Corrections
-  authors:
-  - Anjiabei Wang
-  - Tesca Fitzgerald
-  publisher: HIRL 24
-  date: ''
-  plugin: sources.py
-  file: sources.yaml

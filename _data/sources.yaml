@@ -22,12 +22,12 @@
 - id: doi:10.1007/978-3-319-24586-7_9
   type: paper
 
-- title: Legibility-Aware Learning from Corrections
-  authors:
-    - Anjiabei Wang
-    - Tesca Fitzgerald
-  publisher: HIRL 24
-  date: 2024-03-15
+# - title: Legibility-Aware Learning from Corrections
+#   authors:
+#     - Anjiabei Wang
+#     - Tesca Fitzgerald
+#   publisher: HIRL 24
+#   date: 2024-03-15
   #link: biorxiv.org/1234
 
 # Errors for some reason
