@@ -31,6 +31,25 @@
   date: "2024-03-15"
   type: preprint
 
+- id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
+  title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
+  authors:
+    - Anushka Potdar
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
+  date: "2024-03-11"
+  type: preprint
+
+- id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
+  title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
+  authors:
+    - Shuangge Wang
+    - Brian Scassellati
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
+  date: "2024-03-11"
+  type: preprint
+
 # Errors for some reason
 # - id: doi:10.5555/3306127.3331842
 #   type: paper
