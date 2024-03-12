@@ -10,9 +10,9 @@
 - id: doi:10.1016/j.artint.2021.103551
   type: paper
 
-- id: doi:10.5555/3306127.3331842
+- id: doi:10.1007/978-3-319-24586-7_9
   type: paper
-  
+
 - id: doi:10.1145/3277905
   type: paper
 
@@ -20,7 +20,7 @@
   type: paper
 
 - id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
-  title: INQUIRE INteractive Querying for User-aware Informative REasoning
+  title: INQUIRE: INteractive Querying for User-aware Informative REasoning
   authors:
     - Tesca Fitzgerald
     - Pallavi Koppol
