@@ -108,8 +108,8 @@
   - Anjiabei Wang
   - Tesca Fitzgerald
   publisher: HRI Workshop on Human-Interactive Robot Learning
-  date: ''
-  link: research/wang-fitzgerald-hirl24-legibility.pdf
+  date: '2024-03-15'
+  link: https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   type: paper
   plugin: sources.py
   file: sources.yaml
