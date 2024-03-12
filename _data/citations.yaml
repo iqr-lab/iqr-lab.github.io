@@ -1,16 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1145/3568162.3576964
-  title: '''What If It Is Wrong'': Effects of Power Dynamics and Trust Repair Strategy
-    on Trust and Compliance in HRI'
+- id: doi:10.1109/HRI.2016.7451755
+  title: Learning object affordances by leveraging the combination of human-guidance
+    and self-exploration
   authors:
-  - Ulas Berk Karli
-  - Shiye Cao
-  - Chien-Ming Huang
-  publisher: Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot
-    Interaction
-  date: '2023-03-13'
-  link: https://doi.org/gtfkmh
+  - Vivian Chu
+  - Tesca Fitzgerald
+  - Andrea L. Thomaz
+  publisher: 2016 11th ACM/IEEE International Conference on Human-Robot Interaction
+    (HRI)
+  date: '2016-03-01'
+  link: https://doi.org/gtfkj7
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -33,84 +33,5 @@
   date: '2022-07-13'
   link: https://doi.org/gtfkjz
   type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/frobt.2021.674292
-  title: Modeling and Learning Constraints for Creative Tool Use
-  authors:
-  - Tesca Fitzgerald
-  - Ashok Goel
-  - Andrea Thomaz
-  publisher: Frontiers in Robotics and AI
-  date: '2021-11-05'
-  link: https://doi.org/gtfkj4
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.artint.2021.103551
-  title: Abstraction in data-sparse task transfer
-  authors:
-  - Tesca Fitzgerald
-  - Ashok Goel
-  - Andrea Thomaz
-  publisher: Artificial Intelligence
-  date: '2021-11-01'
-  link: https://doi.org/gk52hh
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3277905
-  title: Human-Guided Object Mapping for Task Transfer
-  authors:
-  - Tesca Fitzgerald
-  - Ashok Goel
-  - Andrea Thomaz
-  publisher: ACM Transactions on Human-Robot Interaction
-  date: '2018-07-31'
-  link: https://doi.org/ghgbcp
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.24963/ijcai.2021/599
-  title: Understanding the Relationship between Interactions and Outcomes in Human-in-the-Loop
-    Machine Learning
-  authors:
-  - Yuchen Cui
-  - Pallavi Koppol
-  - Henny Admoni
-  - Scott Niekum
-  - Reid Simmons
-  - Aaron Steinfeld
-  - Tesca Fitzgerald
-  publisher: Proceedings of the Thirtieth International Joint Conference on Artificial
-    Intelligence
-  date: '2021-08-01'
-  link: https://doi.org/gn78pz
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-3-319-24586-7_9
-  title: Visual Case Retrieval for Interpreting Skill Demonstrations
-  authors:
-  - Tesca Fitzgerald
-  - Keith McGreggor
-  - Baris Akgun
-  - Andrea Thomaz
-  - Ashok Goel
-  publisher: Case-Based Reasoning Research and Development
-  date: '2015-01-01'
-  link: https://doi.org/gtfkj8
-  type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
-  title: Legibility-Aware Learning from Corrections
-  authors:
-  - Anjiabei Wang
-  - Tesca Fitzgerald
-  publisher: HRI Workshop on Human-Interactive Robot Learning
-  date: '2024-03-15'
-  link: https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
-  type: preprint
   plugin: sources.py
   file: sources.yaml
