@@ -15,3 +15,31 @@
 
 - id: doi:10.24963/ijcai.2021/599
   type: paper
+
+- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
+  title: Legibility-Aware Learning from Corrections
+  authors:
+    - Anjiabei Wang
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Human-Interactive Robot Learning
+  date: "2024-03-15"
+  type: paper
+
+- id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
+  title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
+  authors:
+    - Anushka Potdar
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
+  date: "2024-03-11"
+  type: paper
+
+- id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
+  title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
+  authors:
+    - Shuangge Wang
+    - Brian Scassellati
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
+  date: "2024-03-11"
+  type: paper
