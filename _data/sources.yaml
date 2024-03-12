@@ -17,12 +17,12 @@
   type: paper
 
 - id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
-  title: INQUIRE: INteractive Querying for User-aware Informative REasoning
+  title: "INQUIRE: INteractive Querying for User-aware Informative REasoning"
   authors:
     - Tesca Fitzgerald
     - Pallavi Koppol
     - Patrick Callaghan
-    - Russell Wong
+    - Russell Q. Wong
     - Reid Simmons
     - Oliver Kroemer
     - Henny Admoni
