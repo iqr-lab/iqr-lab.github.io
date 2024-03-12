@@ -40,7 +40,7 @@
     - Tesca Fitzgerald
   publisher: CoRL Workshop on Language and Robot Learning
   date: "2023-11-06"
-  type: preprint
+  type: paper
 
 - id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
@@ -49,7 +49,7 @@
     - Tesca Fitzgerald
   publisher: HRI Workshop on Human-Interactive Robot Learning
   date: "2024-03-15"
-  type: preprint
+  type: paper
 
 - id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
@@ -58,7 +58,7 @@
     - Tesca Fitzgerald
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: "2024-03-11"
-  type: preprint
+  type: paper
 
 - id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
   title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
@@ -68,7 +68,7 @@
     - Tesca Fitzgerald
   publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
   date: "2024-03-11"
-  type: preprint
+  type: paper
 
 # Errors for some reason
 # - id: doi:10.5555/3306127.3331842
