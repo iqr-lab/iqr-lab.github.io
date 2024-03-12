@@ -19,20 +19,6 @@
 - id: doi:10.24963/ijcai.2021/599
   type: paper
 
-- id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
-  title: "INQUIRE: INteractive Querying for User-aware Informative REasoning"
-  authors:
-    - Tesca Fitzgerald
-    - Pallavi Koppol
-    - Patrick Callaghan
-    - Russell Q. Wong
-    - Reid Simmons
-    - Oliver Kroemer
-    - Henny Admoni
-  publisher: Conference on Robot Learning
-  date: "2022-12-14"
-  type: paper
-  
 - id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
   title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
   authors:
