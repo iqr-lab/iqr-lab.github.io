@@ -89,6 +89,17 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
+  title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
+  authors:
+  - Ulas Berk Karli
+  - Tesca Fitzgerald
+  publisher: CoRL Workshop on Language and Robot Learning
+  date: '2023-11-06'
+  link: https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
   authors:
