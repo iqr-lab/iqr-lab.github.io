@@ -1,9 +1,3 @@
-- id: doi:10.1145/3568162.3576964
-  type: paper
-  title: |-
-    'What If It Is Wrong': Effects of Power Dynamics and Trust Repair Strategy on Trust and Compliance in HRI
-  # Needs custom title since the double quotation marks mess up the HTML rendering
-
 - id: doi:10.1145/3522579
   type: paper
 
@@ -13,6 +7,9 @@
 - id: doi:10.1016/j.artint.2021.103551
   type: paper
 
+- id: doi:10.5555/3306127.3331842
+  type: paper
+  
 - id: doi:10.1145/3277905
   type: paper
 
@@ -20,6 +17,20 @@
   type: paper
 
 - id: doi:10.1007/978-3-319-24586-7_9
+  type: paper
+
+- id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
+  title: INQUIRE: INteractive Querying for User-aware Informative REasoning
+  authors:
+    - Tesca Fitzgerald
+    - Pallavi Koppol
+    - Patrick Callaghan
+    - Russell Q. Wong
+    - Reid Simmons
+    - Oliver Kroemer
+    - Henny Admoni
+  publisher: Conference on Robot Learning
+  date: "2022-12-14"
   type: paper
 
 - id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
