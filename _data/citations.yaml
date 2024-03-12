@@ -103,3 +103,13 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- title: Legibility-Aware Learning from Corrections
+  authors:
+  - Anjiabei Wang
+  - Tesca Fitzgerald
+  publisher: HRI Workshop on Human-Interactive Robot Learning
+  date: ''
+  link: research/wang-fitzgerald-hirl24-legibility.pdf
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
