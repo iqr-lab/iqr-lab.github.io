@@ -103,7 +103,8 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- title: Legibility-Aware Learning from Corrections
+- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
+  title: Legibility-Aware Learning from Corrections
   authors:
   - Anjiabei Wang
   - Tesca Fitzgerald
