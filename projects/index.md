@@ -22,13 +22,10 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
   | default: emptyarray
 %}
 
-{{ data }}
 
-{% for d in data.items %}
+{% for d in data %}
   {{ " " }}
-  {% capture text %}
-  We use data science to answer important questions in biology and medicine.
-
+  {{ d }}
   {%
     include button.html
     link="research" 
@@ -36,8 +33,6 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
     icon="fas fa-arrow-right"
     flip=true
   %}
-  {:.center}
-  {% endcapture %}
 
 {% endfor %}
 
