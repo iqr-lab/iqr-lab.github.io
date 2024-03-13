@@ -4,6 +4,7 @@
   link: https://github.com/iqr-lab/pointcloud_stitching
   description: Scalable, multicamera distributed system for realtime pointcloud stitching in IQR Lab. This program is currently designed to use the D400 Series Intel RealSense depth cameras. Using the librealsense 2.0 SDK, depth frames are grabbed and pointclouds are computed on the edge, before sending the raw XYZRGB values to a central computer over a TCP sockets. The central program stitches the pointclouds together and displays it a viewer using PCL libraries.
   repo: iqr-lab/pointcloud_stitching
+  button-text: Check out the code
   tags:
     - software
 
@@ -11,5 +12,6 @@
   image: images/project_banner.png
   link: https://iqr.cs.yale.edu/projects/learning-from-corrections.html
   description: "Corrections offer an easy way for end-users to teach and collaborate with a robot, while also offering rich information about task constraints. However, these corrections reflect more than just the optimality of the robot behavior, and are subject to additional influences such as task tolerance, physical effort, and the human's subjective expectation of whether the robot will succeed. We are developing predictive model of corrections that accounts for the impact of these factors, with the goal of helping robots learn more effectively from these corrections."
+  button-text: More details
   tags:
     - research

@@ -9,13 +9,10 @@ nav:
 
 IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to maintain several packages, applications, datasets, and benchmarks to enable the broader robotics community to build upon our work.
 
-{% include section.html %}
-
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-## Projects
 
 {% assign data = site.data["projects"]
   | default: site["projects"]
@@ -24,6 +21,13 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
 
 
 {% for d in data %}
+  {% assign mod = forloop.index | modulo: 2 %}
+  {% if mod == 0 %}
+    {% assign flip-val = true %}
+  {% else %}
+    {% assign flip-val = false %}
+  {% endif %}
+
   {{ " " }}
   {% capture text %}
 
@@ -31,7 +35,7 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
   {%
     include button.html
     link=d.link
-    text="See our publications"
+    text=d.button-text
     icon="fa-solid fa-arrow-right"
     flip=true
   %}
@@ -44,6 +48,7 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
     link=d.link 
     title=d.title
     text=text
+    flip=flip-val
   %}
 
 {% endfor %}
