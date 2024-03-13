@@ -3,7 +3,7 @@
   tags:
     - metrics
     - survey
-    - self-proficiency assessment
+    - self-assessment
     
 #- id: doi:10.5555/3306127.3331842
 #  type: paper
@@ -65,7 +65,8 @@
   type: paper  
   tags:
     - LLMs
-    - ambiguity resolution
+    - ambiguity
+    - self-assessment
     
 - id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
@@ -79,7 +80,7 @@
     - learning from corrections
     - inverse reinforcement learning
     - legibility
-    - user studty
+    - user study
 
 - id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
