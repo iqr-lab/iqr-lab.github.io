@@ -17,4 +17,26 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
 
 ## Projects
 
-{% include list.html data="projects" component="horizontal-card" %}
+{% assign data = site.data[include.data]
+  | default: site[include.data]
+  | default: emptyarray
+  | data_filter: include.filters
+%}
+
+{% for d in data %}
+  {{ " " }}
+  {% capture text %}
+  We use data science to answer important questions in biology and medicine.
+
+  {%
+    include button.html
+    link="research" 
+    text="Check out the smmary"
+    icon="fas fa-arrow-right"
+    flip=true
+  %}
+  {:.center}
+  {% endcapture %}
+
+{% endfor %}
+
