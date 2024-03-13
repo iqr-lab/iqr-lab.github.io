@@ -54,7 +54,10 @@
     - inverse reinforcement learning
     - learning from demonstrations
     - learning from corrections
-    
+  buttons:
+    - type: source
+      link: https://github.com/HARPLab/inquire
+      
 - id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
   title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
   authors:
