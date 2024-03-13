@@ -19,6 +19,10 @@
   date: '2022-07-13'
   link: https://doi.org/gtfkjz
   type: paper
+  tags:
+  - metrics
+  - survey
+  - self-proficiency assessment
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/frobt.2021.674292
@@ -31,6 +35,10 @@
   date: '2021-11-05'
   link: https://doi.org/gtfkj4
   type: paper
+  tags:
+  - tool use
+  - co-creativity
+  - learning from corrections
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.artint.2021.103551
@@ -43,6 +51,9 @@
   date: '2021-11-01'
   link: https://doi.org/gk52hh
   type: paper
+  tags:
+  - task representations
+  - abstraction
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-319-24586-7_9
@@ -69,6 +80,9 @@
   date: '2018-07-31'
   link: https://doi.org/ghgbcp
   type: paper
+  tags:
+  - tool use
+  - learning from corrections
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.24963/ijcai.2021/599
@@ -87,6 +101,10 @@
   date: '2021-08-01'
   link: https://doi.org/gn78pz
   type: paper
+  tags:
+  - human-in-the-loop
+  - survey
+  - human factors
   plugin: sources.py
   file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
@@ -103,6 +121,10 @@
   date: '2022-12-14'
   link: https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
   type: paper
+  tags:
+  - inverse reinforcement learning
+  - learning from demonstrations
+  - learning from corrections
   plugin: sources.py
   file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
@@ -114,6 +136,9 @@
   date: '2023-11-06'
   link: https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
   type: paper
+  tags:
+  - LLMs
+  - ambiguity resolution
   plugin: sources.py
   file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
@@ -125,6 +150,11 @@
   date: '2024-03-15'
   link: https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   type: paper
+  tags:
+  - learning from corrections
+  - inverse reinforcement learning
+  - legibility
+  - user studty
   plugin: sources.py
   file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
@@ -137,6 +167,9 @@
   date: '2024-03-11'
   link: https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   type: paper
+  tags:
+  - mental models
+  - human-robot teaming
   plugin: sources.py
   file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
@@ -151,5 +184,9 @@
   date: '2024-03-11'
   link: https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
   type: paper
+  tags:
+  - inverse reinforcement learning
+  - learning from corrections
+  - user study
   plugin: sources.py
   file: sources.yaml
