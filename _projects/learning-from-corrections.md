@@ -5,9 +5,8 @@ tags:
   # - inverse reinforcement learning
   # - project
 authors:
-  # - Anjiabei Wang
-  # - Shuangge Wang
-description: Scalable, multicamera distributed system for realtime pointcloud stitching in IQR Lab. This program is currently designed to use the D400 Series Intel RealSense depth cameras. Using the librealsense 2.0 SDK, depth frames are grabbed and pointclouds are computed on the edge, before sending the raw XYZRGB values to a central computer over a TCP sockets. The central program stitches the pointclouds together and displays it a viewer using PCL libraries.
+  - Anjiabei Wang
+  - Shuangge Wang
 ---
 
 With the continued integration of machines into our everyday lives, the principle of non-technical human teachers being able to effectively communicate with and efficiently train robots becomes increasingly relevant. Current and prior research has looked into how people can train a robot to complete manipulation-based tasks using different modalities or interaction types, such as demonstrations [1] and ranked preferences [2]. Alternatively, a person can monitor a robot as it attempts to complete a task, interceding to provide a \emph{correction} when they deem it necessary to modify the robot's behavior [3,4]. For example, if a robot that is supposed to pick up a mug from the table is moving away from the table instead, a human teacher may offer assistance by correcting the robot's motion and pushing it in the right direction. This correction should inform how the robot behaves in future variations of the task, while also implying how the robot should **not** behave (i.e., the behavior that prompted the teacher to intercede in the first place). 
