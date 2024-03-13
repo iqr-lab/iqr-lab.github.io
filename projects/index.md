@@ -28,13 +28,19 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
     {% assign flip-val = false %}
   {% endif %}
 
+  {% if d.external_url %}
+    {% assign link = d.external_url %}
+  {% else %}
+    {% assign link = d.url %}
+  {% endif %}
+
   {{ " " }}
   {% capture text %}
 
   {{ d.description }}
   {%
     include button.html
-    link=d.url
+    link=link
     text=d.button-text
     icon="fa-solid fa-arrow-right"
     flip=true
@@ -45,7 +51,7 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
   {%
     include feature.html
     image=d.image 
-    link=d.url
+    link=link
     title=d.title
     text=text
     flip=flip-val
