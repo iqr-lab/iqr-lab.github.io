@@ -168,10 +168,10 @@ journal:
   text: Journal
   tooltip: Journal
 
-preprint:
+poster:
   icon: fa-regular fa-eye
-  text: Preprint
-  tooltip: Preprint
+  text: Poster
+  tooltip: Poster
 
 unpublished:
   icon: fa-regular fa-eye
