@@ -1,5 +1,7 @@
 ---
 title: Learning from Corrections
+description: "Corrections offer an easy way for end-users to teach and collaborate with a robot, while also offering rich information about task constraints. However, these corrections reflect more than just the optimality of the robot behavior, and are subject to additional influences such as task tolerance, physical effort, and the human's subjective expectation of whether the robot will succeed. We are developing predictive model of corrections that accounts for the impact of these factors, with the goal of helping robots learn more effectively from these corrections."
+button-text: More details
 tags:
   # - learning from corrections
   # - inverse reinforcement learning

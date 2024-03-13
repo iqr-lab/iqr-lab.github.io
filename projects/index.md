@@ -14,7 +14,7 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
 {% include search-info.html %}
 
 
-{% assign data = site.data["projects"]
+{% assign data = site.projects
   | default: site["projects"]
   | default: emptyarray
 %}
