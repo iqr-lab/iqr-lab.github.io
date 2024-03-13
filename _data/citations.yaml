@@ -125,6 +125,9 @@
   - inverse reinforcement learning
   - learning from demonstrations
   - learning from corrections
+  buttons:
+  - type: source
+    link: https://github.com/HARPLab/inquire
   plugin: sources.py
   file: sources.yaml
 - id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
