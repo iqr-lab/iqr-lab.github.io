@@ -7,10 +7,9 @@
   tags:
     - software
 
-- title: Grounded Realsense Segment Anything
+- title: Learning from Corrections
   image: images/project_banner.png
-  link: https://github.com/iqr-lab/grounded-realsense-sam
-  description: Application and framework for using Grounded-SAM (Grounded-DINO + SAM) with Realsense camera(s).
-  repo: iqr-lab/grounded-realsense-sam
+  link: https://iqr.cs.yale.edu/projects/learning-from-corrections.html
+  description: "Corrections offer an easy way for end-users to teach and collaborate with a robot, while also offering rich information about task constraints. However, these corrections reflect more than just the optimality of the robot behavior, and are subject to additional influences such as task tolerance, physical effort, and the human's subjective expectation of whether the robot will succeed. We are developing predictive model of corrections that accounts for the impact of these factors, with the goal of helping robots learn more effectively from these corrections."
   tags:
-    - software
+    - research
