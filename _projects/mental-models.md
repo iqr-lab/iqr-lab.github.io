@@ -7,7 +7,7 @@ tags:
   # - mental models
   # - theory of mind
 authors:
-  - Anushka Potdar
+  - anushka-potdar
 ---
 
 This page is under construction.
