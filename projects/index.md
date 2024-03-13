@@ -18,3 +18,4 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
 ## Projects
 
 {% include list.html component="card" data="projects" filters="group: " %}
+{% include list.html data="posts" filters="group: " component="post-excerpt" %}
