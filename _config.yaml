@@ -35,7 +35,7 @@ defaults:
   - scope:
       type: "projects"
     values:
-      layout: post
+      layout: page
 
 collections:
   # generate page for each member
