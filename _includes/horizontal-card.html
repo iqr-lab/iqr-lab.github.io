@@ -1,0 +1,23 @@
+{{ " " }}
+<div class="card" data-style="{{ include.style }}">
+  {% capture text %}
+  We use data science to answer important questions in biology and medicine.
+
+  {%
+    include button.html
+    link= "{{ include.link | relative_url }}"
+    text="Check out the smmary"
+    icon="fas fa-arrow-right"
+    flip=true
+  %}
+  {:.center}
+  {% endcapture %}
+  {%
+    include feature.html
+    image="images/backgrounds/laptop-paper.jpg"
+    link="research"
+    title="{{ include.title }}"
+    text="{{ include.description | markdownify}}"
+  %}
+
+</div>
