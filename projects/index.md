@@ -34,7 +34,7 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
   {{ d.description }}
   {%
     include button.html
-    link=d.link
+    link=d.url
     text=d.button-text
     icon="fa-solid fa-arrow-right"
     flip=true
@@ -45,7 +45,7 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
   {%
     include feature.html
     image=d.image 
-    link=d.link 
+    link=d.url
     title=d.title
     text=text
     flip=flip-val
