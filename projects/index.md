@@ -23,9 +23,32 @@ IQR Lab is dedicated to open-sourcing our software and infrastructure. We aim to
 %}
 
 
+{% capture text %}
+
+Our research vision comprises of several core pillars: (a) Reasoning over Multiple Interaction Types, (b) Representing Transfer Problems on a Spectrum of Similarity, (c) Trajectory Adaptation for Tool Transfer, and (d) Human-guided Object Mapping for Task Transfer.
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research_banner.png"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+
 {% for d in data %}
   {{ " " }}
-  {{ d }}
   {%
     include button.html
     link="research" 
