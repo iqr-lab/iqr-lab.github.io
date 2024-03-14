@@ -1,7 +1,6 @@
 ## 2024 ##
 
-#- id: url:https://iqr.cs.yale.edu/pubs/wang-fitzgerald-hirl24-legibility.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/tree/main/pubs/wang-fitzgerald-hirl24-legibility.pdf
+- link: https://iqr.cs.yale.edu/pubs/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
   authors:
     - Anjiabei Wang
@@ -19,8 +18,7 @@
     - type: poster
       link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
 
-#- id: url:https://iqr.cs.yale.edu/pubs/potdar-fitzgerald-ss4hri24-crm.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/tree/main/pubs/potdar-fitzgerald-ss4hri24-crm.pdf
+- link: https://iqr.cs.yale.edu/pubs/potdar-fitzgerald-ss4hri24-crm.pdf
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
   authors:
     - Anushka Potdar
@@ -33,8 +31,7 @@
     - mental models
     - human-robot teaming
     
-#- id: url:https://iqr.cs.yale.edu/pubs/wang-scassellati-fitzgerald-leap24-competency.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/tree/main/pubs/wang-scassellati-fitzgerald-leap24-competency.pdf
+- link: https://iqr.cs.yale.edu/pubs/wang-scassellati-fitzgerald-leap24-competency.pdf
   title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
   authors:
     - Shuangge Wang
@@ -52,8 +49,7 @@
 
 ## 2023 ##
 
-#- id: url:https://iqr.cs.yale.edu/pubs/karli-fitzgerald-langrob23-ambiguities.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/tree/main/pubs/karli-fitzgerald-langrob23-ambiguities.pdf
+- link: https://iqr.cs.yale.edu/pubs/karli-fitzgerald-langrob23-ambiguities.pdf
   title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
   authors:
     - Ulas Berk Karli
@@ -73,8 +69,7 @@
 
 ## 2022 ##
 
-#- id: url:https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/blob/main/pubs/fitzgerald-corl22-inquire.pdf
+- link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire.pdf
   title: "INQUIRE: INteractive Querying for User-aware Informative REasoning"
   authors:
     - Tesca Fitzgerald
@@ -139,7 +134,7 @@
 
 ## 2020 ##
 
-- id: http://hdl.handle.net/1853/63630
+- link: http://hdl.handle.net/1853/63630
   title: "Human-guided task transfer for interactive robots"
   authors:
     - Tesca Fitzgerald
@@ -187,8 +182,7 @@
 
 ## 2017 ##
 
-#- id: https://iqr.cs.yale.edu/pubs/fitzgerald-iccc17-creativity.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/blob/main/pubs/fitzgerald-iccc17-creativity.pdf
+- link: https://iqr.cs.yale.edu/pubs/fitzgerald-iccc17-creativity.pdf
   title: "Human-Robot Co-Creativity: Task Transfer on a Spectrum of Similarity"
   authors:
     - Tesca Fitzgerald
@@ -203,8 +197,7 @@
 
 ## 2016 ##
 
-#- id: https://iqr.cs.yale.edu/pubs/fitzgerald-acs16-mapping.pdf
-- id: url:https://github.com/iqr-lab/iqr-lab.github.io/blob/main/pubs/fitzgerald-acs16-mapping.pdf
+- link: https://iqr.cs.yale.edu/pubs/fitzgerald-acs16-mapping.pdf
   title: "Situated Mapping for Transfer Learning"
   authors:
     - Tesca Fitzgerald
