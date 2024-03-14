@@ -139,6 +139,8 @@
   date: '2023-11-06'
   link: https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
   type: paper
+  projects:
+  - llms
   tags:
   - LLMs
   - ambiguity
@@ -154,6 +156,8 @@
   date: '2024-03-15'
   link: https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   type: paper
+  projects:
+  - learning-from-corrections
   tags:
   - learning from corrections
   - inverse reinforcement learning
@@ -165,12 +169,14 @@
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration
     in Safety-Critical Situations
   authors:
-  - Anushka Potdar
+  - anushka-potdar
   - Tesca Fitzgerald
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: '2024-03-11'
   link: https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   type: paper
+  project:
+  - mental-models
   tags:
   - mental models
   - human-robot teaming
@@ -188,6 +194,8 @@
   date: '2024-03-11'
   link: https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
   type: paper
+  projects:
+  - learning-from-corrections
   tags:
   - inverse reinforcement learning
   - learning from corrections
