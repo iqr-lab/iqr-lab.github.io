@@ -153,10 +153,15 @@ pdf:
   text: PDF
   tooltip: PDF
 
-paper:
+conference:
   icon: fa-solid fa-scroll
-  text: Paper
-  tooltip: Paper
+  text: Conference
+  tooltip: Conference Paper
+
+workshop:
+  icon: fa-solid fa-scroll
+  text: Workshop
+  tooltip: Workshop Paper
 
 book:
   icon: fa-solid fa-book
