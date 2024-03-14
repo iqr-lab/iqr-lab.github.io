@@ -1,13 +1,12 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
+- link: https://iqr.cs.yale.edu/pubs/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
   authors:
   - Anjiabei Wang
   - Tesca Fitzgerald
   publisher: HRI Workshop on Human-Interactive Robot Learning
   date: '2024-03-15'
-  link: https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
   type: workshop
   project: learning-from-corrections
   tags:
@@ -15,9 +14,12 @@
   - inverse reinforcement learning
   - legibility
   - user study
+  buttons:
+  - type: poster
+    link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
   plugin: sources.py
   file: sources.yaml
-- id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
+- link: https://iqr.cs.yale.edu/pubs/potdar-fitzgerald-ss4hri24-crm.pdf
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration
     in Safety-Critical Situations
   authors:
@@ -25,7 +27,6 @@
   - Tesca Fitzgerald
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: '2024-03-11'
-  link: https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   type: workshop
   project: mental-models
   tags:
@@ -33,17 +34,15 @@
   - human-robot teaming
   plugin: sources.py
   file: sources.yaml
-- id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
+- link: https://iqr.cs.yale.edu/pubs/wang-scassellati-fitzgerald-leap24-competency.pdf
   title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback
     in Long-Term Task Learning
   authors:
   - Shuangge Wang
   - Brian Scassellati
   - Tesca Fitzgerald
-  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot
-    Interaction (LEAP-HRI)
+  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term HRI
   date: '2024-03-11'
-  link: https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
   type: workshop
   project: learning-from-corrections
   tags:
@@ -52,23 +51,25 @@
   - user study
   plugin: sources.py
   file: sources.yaml
-- id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
+- link: https://iqr.cs.yale.edu/pubs/karli-fitzgerald-langrob23-ambiguities.pdf
   title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
   authors:
   - Ulas Berk Karli
   - Tesca Fitzgerald
   publisher: CoRL Workshop on Language and Robot Learning
   date: '2023-11-06'
-  link: https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
   type: workshop
   project: llms
   tags:
   - LLMs
   - ambiguity
   - self-assessment
+  buttons:
+  - type: poster
+    link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
   plugin: sources.py
   file: sources.yaml
-- id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
+- link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire.pdf
   title: 'INQUIRE: INteractive Querying for User-aware Informative REasoning'
   authors:
   - Tesca Fitzgerald
@@ -78,24 +79,19 @@
   - Reid Simmons
   - Oliver Kroemer
   - Henny Admoni
-  publisher: Conference on Robot Learning
+  publisher: Conference on Robot Learning (CoRL)
   date: '2022-12-14'
-  link: https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
   type: conference
   tags:
   - inverse reinforcement learning
   - learning from demonstrations
   - learning from corrections
   buttons:
-  - type: source
-    link: https://github.com/HARPLab/inquire
   - type: poster
-    link: https://github.com/HARPLab/inquire
+    link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
   - type: video
-    link: https://github.com/HARPLab/inquire
-  - type: pdf
-    link: https://github.com/HARPLab/inquire
-  - type: blog
+    link: https://www.youtube.com/watch?v=X3uewsq6-Gc
+  - type: source
     link: https://github.com/HARPLab/inquire
   plugin: sources.py
   file: sources.yaml
@@ -144,6 +140,9 @@
   - human-in-the-loop ML
   - survey
   - human factors
+  buttons:
+  - type: video
+    link: https://ijcai-21.org/videos-slides/?video=SV162
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/frobt.2021.674292
@@ -177,24 +176,20 @@
   - abstraction
   plugin: sources.py
   file: sources.yaml
-- id: http://hdl.handle.net/1853/63630
+- link: http://hdl.handle.net/1853/63630
   title: Human-guided task transfer for interactive robots
   authors:
   - Tesca Fitzgerald
-  publisher: Georgia Institute of Technology
   date: '2020-07-06'
-  link: http://hdl.handle.net/1853/63630
+  publisher: Georgia Institute of Technology
   type: thesis
   tags:
   - transfer learning
   - learning from demonstration
   - learning from corrections
-  buttons:
-  - type: pdf
-    link: http://hdl.handle.net/1853/63630
   plugin: sources.py
   file: sources.yaml
-- id: https://dl.acm.org/doi/10.5555/3306127.3331842
+- id: url:https://dl.acm.org/doi/10.5555/3306127.3331842
   title: Human-guided Trajectory Adaptation for Tool Transfer
   authors:
   - Tesca Fitzgerald
@@ -208,6 +203,9 @@
   tags:
   - tool use
   - learning from corrections
+  buttons:
+  - type: video
+    link: https://www.youtube.com/watch?v=yz-GCEgR8Ko
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3277905
@@ -223,39 +221,40 @@
   tags:
   - tool use
   - learning from corrections
+  buttons:
+  - type: video
+    link: https://www.youtube.com/watch?v=lmmnbHzzSI4
   plugin: sources.py
   file: sources.yaml
-- id: https://iqr.cs.yale.edu/pdf/fitzgerald-iccc17-creativity.pdf
+- link: https://iqr.cs.yale.edu/pubs/fitzgerald-iccc17-creativity.pdf
   title: 'Human-Robot Co-Creativity: Task Transfer on a Spectrum of Similarity'
   authors:
   - Tesca Fitzgerald
   - Ashok Goel
   - Andrea Thomaz
-  publisher: International Conference on Computational Creativity
   date: '2017-06-19'
-  link: https://iqr.cs.yale.edu/pdf/fitzgerald-iccc17-creativity.pdf
+  publisher: Intl. Conf. on Computational Creativity (ICCC)
   type: conference
   tags:
   - co-creativity
   plugin: sources.py
   file: sources.yaml
-- id: https://iqr.cs.yale.edu/pdf/fitzgerald-acs16-mapping.pdf
+- link: https://iqr.cs.yale.edu/pubs/fitzgerald-acs16-mapping.pdf
   title: Situated Mapping for Transfer Learning
   authors:
   - Tesca Fitzgerald
   - Kalesha Bullard
   - Andrea Thomaz
   - Ashok Goel
-  publisher: Conference on Advances in Cognitive Systems (ACS)
   date: '2016-06-23'
-  link: https://iqr.cs.yale.edu/pdf/fitzgerald-acs16-mapping.pdf
+  publisher: Conference on Advances in Cognitive Systems (ACS)
   type: conference
   tags:
   - transfer learning
   - object mapping
   plugin: sources.py
   file: sources.yaml
-- id: https://dl.acm.org/doi/abs/10.5555/2906831.2906869
+- id: url:https://dl.acm.org/doi/abs/10.5555/2906831.2906869
   title: Learning Object Affordances by Leveraging the Combination of Human-Guidance
     and Self-Exploration
   authors:
