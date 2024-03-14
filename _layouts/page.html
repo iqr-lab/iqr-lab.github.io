@@ -10,10 +10,10 @@ layout: default
   tags=page.tags
 %}
 
-{% include section.html %}
-
 {{ content }}
 
 {% include section.html %}
+
+{% include list.html data="citations" component="citation" style="rich" filters="project: mental-models" %}
 
 {% include post-nav.html post=page %}
