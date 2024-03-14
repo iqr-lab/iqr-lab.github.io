@@ -97,8 +97,7 @@
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: "2024-03-11"
   type: paper
-  project:
-    - mental-models
+  project: mental-models
   tags:
     - mental models
     - human-robot teaming
