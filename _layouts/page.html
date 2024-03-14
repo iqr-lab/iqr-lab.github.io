@@ -16,8 +16,7 @@ layout: default
 
 <h2 class="center">Publications</h2>
 
-{{ page.project-tag }}
-{% assign filter = "project: {{ page.project-tag }}" %}
+{% assign filter = "project: page.project-tag" %}
 {{ filter }}
 {% include list.html data="citations" component="citation" style="rich" filters=filter %}
 
