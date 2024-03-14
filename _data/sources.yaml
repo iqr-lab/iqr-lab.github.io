@@ -1,13 +1,26 @@
+# Metrics for Robot Proficiency Self-assessment and Communication of Proficiency in Human-robot Teams
 - id: doi:10.1145/3522579
   type: paper
   tags:
     - metrics
     - survey
     - self-assessment
-    
-#- id: doi:10.5555/3306127.3331842
-#  type: paper
+ 
+- id: https://dl.acm.org/doi/10.5555/3306127.3331842
+  title: "Human-guided Trajectory Adaptation for Tool Transfer"
+  publisher: International Conference on Autonomous Agents and MultiAgent Systems
+  date: "2019-05-08"
+  type: paper
+  tags:
+    - tool use
+    - learning from corrections
+  authors:
+    - Tesca Fitzgerald
+    - Elaine Short
+    - Ashok Goel
+    - Andrea Thomaz
 
+# Modeling and Learning Constraints for Creative Tool Use
 - id: doi:10.3389/frobt.2021.674292
   type: paper
   tags:
@@ -15,21 +28,27 @@
     - co-creativity
     - learning from corrections
 
+# Abstraction in data-sparse task transfer
 - id: doi:10.1016/j.artint.2021.103551
   type: paper
   tags:
     - task representations
     - abstraction
 
+# Visual Case Retrieval for Interpreting Skill Demonstrations
 - id: doi:10.1007/978-3-319-24586-7_9
   type: paper
+  tags:
+    - analogical reasoning
 
+# Human-Guided Object Mapping for Task Transfer
 - id: doi:10.1145/3277905
   type: paper
   tags:
     - tool use
     - learning from corrections
     
+# Understanding the Relationship between Interactions and Outcomes in Human-in-the-Loop Machine Learning
 - id: doi:10.24963/ijcai.2021/599
   type: paper
   tags:
@@ -57,7 +76,15 @@
   buttons:
     - type: source
       link: https://github.com/HARPLab/inquire
-      
+    - type: poster
+      link: https://github.com/HARPLab/inquire
+    - type: video
+      link: https://github.com/HARPLab/inquire
+    - type: pdf
+      link: https://github.com/HARPLab/inquire
+    - type: blog
+      link: https://github.com/HARPLab/inquire
+
 - id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
   title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
   authors:

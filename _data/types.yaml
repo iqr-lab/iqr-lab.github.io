@@ -148,6 +148,11 @@ error:
 
 # publications
 
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: PDF
+  tooltip: PDF
+
 paper:
   icon: fa-solid fa-scroll
   text: Paper
@@ -168,8 +173,13 @@ journal:
   text: Journal
   tooltip: Journal
 
+video:
+  icon: fa-solid fa-video
+  text: Video
+  teooltip: Video
+
 poster:
-  icon: fa-regular fa-eye
+  icon: fa-regular fa-image
   text: Poster
   tooltip: Poster
 
@@ -191,7 +201,7 @@ docs:
   tooltip: Documentation
 
 source:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-gear
   text: Source
   tooltip: Source code
 
@@ -205,8 +215,13 @@ app:
   text: App
   tooltip: App
 
+blog:
+  icon: fa-solid fa-pen-to-square
+  text: Blog
+  tooltip: Blog
+
 data:
-  icon: fa-solid fa-database
+  icon: fa-regular fa-folder-open
   text: Data
   tooltip: Data
 
