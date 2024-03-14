@@ -16,6 +16,7 @@ layout: default
 
 ## Publications
 
-{% include list.html data="citations" component="citation" style="rich" filters="project: {{ page.project-tag }}" %}
+{% assign filter = {{ page.project-tag }} | prepend: "project: " %}
+{% include list.html data="citations" component="citation" style="rich" filters=filter %}
 
 {% include post-nav.html post=page %}
