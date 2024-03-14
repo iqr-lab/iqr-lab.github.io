@@ -66,8 +66,7 @@
   publisher: CoRL Workshop on Language and Robot Learning
   date: "2023-11-06"
   type: paper  
-  projects:
-    - llms
+  project: llms
   tags:
     - LLMs
     - ambiguity
@@ -81,8 +80,7 @@
   publisher: HRI Workshop on Human-Interactive Robot Learning
   date: "2024-03-15"
   type: paper
-  projects:
-    - learning-from-corrections
+  project: learning-from-corrections
   tags:
     - learning from corrections
     - inverse reinforcement learning
@@ -92,7 +90,7 @@
 - id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
   authors:
-    - anushka-potdar
+    - Anushka Potdar
     - Tesca Fitzgerald
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: "2024-03-11"
@@ -111,8 +109,7 @@
   publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
   date: "2024-03-11"
   type: paper
-  projects:
-    - learning-from-corrections
+  project: learning-from-corrections
   tags:
     - inverse reinforcement learning
     - learning from corrections
