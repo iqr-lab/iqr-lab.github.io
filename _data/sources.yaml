@@ -1,6 +1,6 @@
 ## 2024 ##
 
-- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
+- id: url:https://iqr.cs.yale.edu/pubs/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
   authors:
     - Anjiabei Wang
@@ -14,8 +14,11 @@
     - inverse reinforcement learning
     - legibility
     - user study
+  buttons:
+    - type: poster
+      link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
 
-- id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
+- id: url:https://iqr.cs.yale.edu/pubs/potdar-fitzgerald-ss4hri24-crm.pdf
   title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
   authors:
     - Anushka Potdar
@@ -28,13 +31,13 @@
     - mental models
     - human-robot teaming
     
-- id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
+- id: url:https://iqr.cs.yale.edu/pubs/wang-scassellati-fitzgerald-leap24-competency.pdf
   title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
   authors:
     - Shuangge Wang
     - Brian Scassellati
     - Tesca Fitzgerald
-  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
+  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term HRI
   date: "2024-03-11"
   type: workshop
   project: learning-from-corrections
@@ -46,7 +49,7 @@
 
 ## 2023 ##
 
-- id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
+- id: url:https://iqr.cs.yale.edu/pubs/karli-fitzgerald-langrob23-ambiguities.pdf
   title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
   authors:
     - Ulas Berk Karli
@@ -59,11 +62,14 @@
     - LLMs
     - ambiguity
     - self-assessment
+  buttons:
+    - type: poster
+      link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
 
 
 ## 2022 ##
 
-- id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
+- id: url:https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire.pdf
   title: "INQUIRE: INteractive Querying for User-aware Informative REasoning"
   authors:
     - Tesca Fitzgerald
@@ -73,7 +79,7 @@
     - Reid Simmons
     - Oliver Kroemer
     - Henny Admoni
-  publisher: Conference on Robot Learning
+  publisher: Conference on Robot Learning (CoRL)
   date: "2022-12-14"
   type: conference
   tags:
@@ -81,15 +87,11 @@
     - learning from demonstrations
     - learning from corrections
   buttons:
-    - type: source
-      link: https://github.com/HARPLab/inquire
     - type: poster
-      link: https://github.com/HARPLab/inquire
+      link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-poster.pdf
     - type: video
-      link: https://github.com/HARPLab/inquire
-    - type: pdf
-      link: https://github.com/HARPLab/inquire
-    - type: blog
+      link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire-video.mp4
+    - type: source
       link: https://github.com/HARPLab/inquire
 
 # Metrics for Robot Proficiency Self-assessment and Communication of Proficiency in Human-robot Teams
@@ -110,6 +112,9 @@
     - human-in-the-loop ML
     - survey
     - human factors
+  buttons:
+    - type: video
+      link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire.pdf
 
 # Modeling and Learning Constraints for Creative Tool Use
 - id: doi:10.3389/frobt.2021.674292
@@ -140,9 +145,6 @@
     - transfer learning
     - learning from demonstration
     - learning from corrections
-  buttons:
-    - type: pdf
-      link: http://hdl.handle.net/1853/63630
 
 ## 2019 ##
 
@@ -159,6 +161,9 @@
     - Elaine Short
     - Ashok Goel
     - Andrea Thomaz
+  buttons:
+    - type: video
+      link: https://iqr.cs.yale.edu/pubs/fitzgerald-corl22-inquire.pdf
 
 
 ## 2018 ##
@@ -173,7 +178,7 @@
 ## 2017 ##
 
 
-- id: https://iqr.cs.yale.edu/pdf/fitzgerald-iccc17-creativity.pdf
+- id: https://iqr.cs.yale.edu/pubs/fitzgerald-iccc17-creativity.pdf
   title: "Human-Robot Co-Creativity: Task Transfer on a Spectrum of Similarity"
   authors:
     - Tesca Fitzgerald
@@ -187,7 +192,7 @@
 
 ## 2016 ##
 
-- id: https://iqr.cs.yale.edu/pdf/fitzgerald-acs16-mapping.pdf
+- id: https://iqr.cs.yale.edu/pubs/fitzgerald-acs16-mapping.pdf
   title: "Situated Mapping for Transfer Learning"
   authors:
     - Tesca Fitzgerald

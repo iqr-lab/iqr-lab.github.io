@@ -71,8 +71,14 @@
         </div>
       {% endif %}
 
-      {% if citation.buttons.size > 0 %}
-        <div class="citation-buttons">
+      <div class="citation-buttons">
+        {%
+          include button.html
+          type="pdf"
+          link=citation.link
+          style="bare"
+        %}
+        {% if citation.buttons.size > 0 %}
           {% for button in citation.buttons %}
             {%
               include button.html
@@ -83,8 +89,8 @@
               style="bare"
             %}
           {% endfor %}
-        </div>
-      {% endif %}
+        {% endif %}
+      </div>
 
       {% if citation.tags.size > 0 or citation.repo %}
         {% include tags.html tags=citation.tags repo=citation.repo %}
