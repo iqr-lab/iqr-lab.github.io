@@ -14,9 +14,10 @@ layout: default
 
 {% include section.html %}
 
-## Publications
+<h2 class="center">Publications</h2>
 
 {% assign filter = {{ page.project-tag }} | prepend: "project: " %}
+{{ filter }}
 {% include list.html data="citations" component="citation" style="rich" filters=filter %}
 
 {% include post-nav.html post=page %}
