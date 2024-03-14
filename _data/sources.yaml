@@ -201,8 +201,14 @@
     - transfer learning
     - object mapping
 
-# Learning Object Affordances by Leveraging the Combination of Human-Guidance and Self-Exploration
-- id: doi:10.5555/2906831.2906869
+- id: https://dl.acm.org/doi/abs/10.5555/2906831.2906869
+  title: "Learning Object Affordances by Leveraging the Combination of Human-Guidance and Self-Exploration"
+  date: "2016-03-07"
+  publisher: ACM/IEEE Intl. Conf. on Human Robot Interaction (HRI)
+  authors:
+    - Vivian Chu
+    - Tesca Fitzgerald
+    - Andrea Thomaz
   type: conference
   tags:
     - affordances
