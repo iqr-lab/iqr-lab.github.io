@@ -175,8 +175,7 @@
   date: '2024-03-11'
   link: https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
   type: paper
-  project:
-  - mental-models
+  project: mental-models
   tags:
   - mental models
   - human-robot teaming
