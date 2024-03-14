@@ -1,61 +1,68 @@
-# Metrics for Robot Proficiency Self-assessment and Communication of Proficiency in Human-robot Teams
-- id: doi:10.1145/3522579
-  type: paper
-  tags:
-    - metrics
-    - survey
-    - self-assessment
- 
-- id: https://dl.acm.org/doi/10.5555/3306127.3331842
-  title: "Human-guided Trajectory Adaptation for Tool Transfer"
-  publisher: International Conference on Autonomous Agents and MultiAgent Systems
-  date: "2019-05-08"
-  type: paper
-  tags:
-    - tool use
-    - learning from corrections
+## 2024 ##
+
+- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
+  title: Legibility-Aware Learning from Corrections
   authors:
+    - Anjiabei Wang
     - Tesca Fitzgerald
-    - Elaine Short
-    - Ashok Goel
-    - Andrea Thomaz
-
-# Modeling and Learning Constraints for Creative Tool Use
-- id: doi:10.3389/frobt.2021.674292
-  type: paper
+  publisher: HRI Workshop on Human-Interactive Robot Learning
+  date: "2024-03-15"
+  type: workshop
+  project: learning-from-corrections
   tags:
-    - tool use
-    - co-creativity
     - learning from corrections
+    - inverse reinforcement learning
+    - legibility
+    - user study
 
-# Abstraction in data-sparse task transfer
-- id: doi:10.1016/j.artint.2021.103551
-  type: paper
+- id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
+  title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
+  authors:
+    - Anushka Potdar
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
+  date: "2024-03-11"
+  type: workshop
+  project: mental-models
   tags:
-    - task representations
-    - abstraction
-
-# Visual Case Retrieval for Interpreting Skill Demonstrations
-- id: doi:10.1007/978-3-319-24586-7_9
-  type: paper
+    - mental models
+    - human-robot teaming
+    
+- id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
+  title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
+  authors:
+    - Shuangge Wang
+    - Brian Scassellati
+    - Tesca Fitzgerald
+  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
+  date: "2024-03-11"
+  type: workshop
+  project: learning-from-corrections
   tags:
-    - analogical reasoning
-
-# Human-Guided Object Mapping for Task Transfer
-- id: doi:10.1145/3277905
-  type: paper
-  tags:
-    - tool use
+    - inverse reinforcement learning
     - learning from corrections
-    
-# Understanding the Relationship between Interactions and Outcomes in Human-in-the-Loop Machine Learning
-- id: doi:10.24963/ijcai.2021/599
-  type: paper
+    - user study
+
+
+## 2023 ##
+
+- id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
+  title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
+  authors:
+    - Ulas Berk Karli
+    - Tesca Fitzgerald
+  publisher: CoRL Workshop on Language and Robot Learning
+  date: "2023-11-06"
+  type: workshop 
+  project: llms
   tags:
-    - human-in-the-loop
-    - survey
-    - human factors
-    
+    - LLMs
+    - ambiguity
+    - self-assessment
+
+
+## 2022 ##
+
 - id: url:https://iqr.cs.yale.edu/pdf/fitzgerald-corl22-inquire.pdf
   title: "INQUIRE: INteractive Querying for User-aware Informative REasoning"
   authors:
@@ -68,7 +75,7 @@
     - Henny Admoni
   publisher: Conference on Robot Learning
   date: "2022-12-14"
-  type: paper
+  type: conference
   tags:
     - inverse reinforcement learning
     - learning from demonstrations
@@ -85,59 +92,132 @@
     - type: blog
       link: https://github.com/HARPLab/inquire
 
-- id: url:https://iqr.cs.yale.edu/pdf/karli-fitzgerald-langrob23-ambiguities.pdf
-  title: Resolving Ambiguities in LLM-enabled Human-Robot Collaboration
-  authors:
-    - Ulas Berk Karli
-    - Tesca Fitzgerald
-  publisher: CoRL Workshop on Language and Robot Learning
-  date: "2023-11-06"
-  type: paper  
-  project: llms
+# Metrics for Robot Proficiency Self-assessment and Communication of Proficiency in Human-robot Teams
+- id: doi:10.1145/3522579
+  type: journal
   tags:
-    - LLMs
-    - ambiguity
+    - metrics
+    - survey
     - self-assessment
-    
-- id: url:https://iqr.cs.yale.edu/pdf/wang-fitzgerald-hirl24-legibility.pdf
-  title: Legibility-Aware Learning from Corrections
-  authors:
-    - Anjiabei Wang
-    - Tesca Fitzgerald
-  publisher: HRI Workshop on Human-Interactive Robot Learning
-  date: "2024-03-15"
-  type: paper
-  project: learning-from-corrections
-  tags:
-    - learning from corrections
-    - inverse reinforcement learning
-    - legibility
-    - user study
+ 
 
-- id: url:https://iqr.cs.yale.edu/pdf/potdar-fitzgerald-ss4hri24-crm.pdf
-  title: Toward Enabling Crew Resource Management Objectives in Human-Robot Collaboration in Safety-Critical Situations
-  authors:
-    - Anushka Potdar
-    - Tesca Fitzgerald
-  publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
-  date: "2024-03-11"
-  type: paper
-  project: mental-models
+## 2021 ##
+
+# Understanding the Relationship between Interactions and Outcomes in Human-in-the-Loop Machine Learning
+- id: doi:10.24963/ijcai.2021/599
+  type: conference
   tags:
-    - mental models
-    - human-robot teaming
-    
-- id: url:https://iqr.cs.yale.edu/pdf/wang-scassellati-fitzgerald-leap24-competency.pdf
-  title: Toward Measuring the Effect of Robot Competency on Human Kinesthetic Feedback in Long-Term Task Learning
-  authors:
-    - Shuangge Wang
-    - Brian Scassellati
-    - Tesca Fitzgerald
-  publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)
-  date: "2024-03-11"
-  type: paper
-  project: learning-from-corrections
+    - human-in-the-loop ML
+    - survey
+    - human factors
+
+# Modeling and Learning Constraints for Creative Tool Use
+- id: doi:10.3389/frobt.2021.674292
+  type: journal
   tags:
-    - inverse reinforcement learning
+    - tool use
+    - co-creativity
     - learning from corrections
-    - user study
+
+# Abstraction in data-sparse task transfer
+- id: doi:10.1016/j.artint.2021.103551
+  type: journal
+  tags:
+    - task representations
+    - abstraction
+ 
+
+## 2020 ##
+
+- id: http://hdl.handle.net/1853/63630
+  title: "Human-guided task transfer for interactive robots"
+  authors:
+    - Tesca Fitzgerald
+  date: "2020-07-06"
+  publisher: Georgia Institute of Technology
+  type: thesis
+  tags:
+    - transfer learning
+    - learning from demonstration
+    - learning from corrections
+  buttons:
+    - type: pdf
+      link: http://hdl.handle.net/1853/63630
+
+## 2019 ##
+
+- id: https://dl.acm.org/doi/10.5555/3306127.3331842
+  title: "Human-guided Trajectory Adaptation for Tool Transfer"
+  publisher: Intl. Conf. on Autonomous Agents and Multi-Agent Systems (AAMAS)
+  date: "2019-05-08"
+  type: conference
+  tags:
+    - tool use
+    - learning from corrections
+  authors:
+    - Tesca Fitzgerald
+    - Elaine Short
+    - Ashok Goel
+    - Andrea Thomaz
+
+
+## 2018 ##
+
+# Human-Guided Object Mapping for Task Transfer
+- id: doi:10.1145/3277905
+  type: journal
+  tags:
+    - tool use
+    - learning from corrections
+    
+## 2017 ##
+
+
+- id: https://iqr.cs.yale.edu/pdf/fitzgerald-iccc17-creativity.pdf
+  title: "Human-Robot Co-Creativity: Task Transfer on a Spectrum of Similarity"
+  authors:
+    - Tesca Fitzgerald
+    - Ashok Goel
+    - Andrea Thomaz
+  date: "2017-06-19"
+  publisher: International Conference on Computational Creativity
+  type: conference
+  tags:
+    - co-creativity
+
+## 2016 ##
+
+- id: https://iqr.cs.yale.edu/pdf/fitzgerald-acs16-mapping.pdf
+  title: "Situated Mapping for Transfer Learning"
+  authors:
+    - Tesca Fitzgerald
+    - Kalesha Bullard
+    - Andrea Thomaz
+    - Ashok Goel
+  date: "2016-06-23"
+  publisher: Conference on Advances in Cognitive Systems (ACS)
+  type: conference
+  tags:
+    - transfer learning
+    - object mapping
+
+# Learning Object Affordances by Leveraging the Combination of Human-Guidance and Self-Exploration
+- id: doi:10.5555/2906831.2906869
+  type: conference
+  tags:
+    - affordances
+
+## 2015 ##
+
+# Visual Case Retrieval for Interpreting Skill Demonstrations
+- id: doi:10.1007/978-3-319-24586-7_9
+  type: conference
+  tags:
+    - analogical reasoning
+
+# Skill Demonstration Transfer for Learning from Demonstration (HRI Pioneers)
+- id: doi:10.1145/2701973.2702728
+  type: doctoral-consortium
+  tags:
+    - transfer learning
+    - learning from demonstration
