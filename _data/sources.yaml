@@ -10,6 +10,7 @@
   type: workshop
   project: learning-from-corrections
   tags:
+    - Workshop
     - learning from corrections
     - inverse reinforcement learning
     - legibility

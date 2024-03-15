@@ -91,11 +91,6 @@
         {% endif %}
       </div>
 
-      <br />
-      <div class="tag" style="background:{{ type.color }};">
-        {{ type.text }}
-      </div>
-
       {% if citation.tags.size > 0 or citation.repo %}
         {% include tags.html tags=citation.tags repo=citation.repo %}
       {% endif %}
