@@ -7,7 +7,6 @@
   - Tesca Fitzgerald
   publisher: HRI Workshop on Human-Interactive Robot Learning
   date: '2024-03-15'
-  type: workshop
   project: learning-from-corrections
   tags:
   - Workshop
@@ -28,9 +27,9 @@
   - Tesca Fitzgerald
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: '2024-03-11'
-  type: workshop
   project: mental-models
   tags:
+  - Workshop
   - mental models
   - human-robot teaming
   plugin: sources.py
@@ -44,9 +43,9 @@
   - Tesca Fitzgerald
   publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term HRI
   date: '2024-03-11'
-  type: workshop
   project: learning-from-corrections
   tags:
+  - Workshop
   - inverse reinforcement learning
   - learning from corrections
   - user study
@@ -59,9 +58,9 @@
   - Tesca Fitzgerald
   publisher: CoRL Workshop on Language and Robot Learning
   date: '2023-11-06'
-  type: workshop
   project: llms
   tags:
+  - Workshop
   - LLMs
   - ambiguity
   - self-assessment
@@ -82,8 +81,8 @@
   - Henny Admoni
   publisher: Conference on Robot Learning (CoRL)
   date: '2022-12-14'
-  type: conference
   tags:
+  - Conference
   - inverse reinforcement learning
   - learning from demonstrations
   - learning from corrections
@@ -114,8 +113,8 @@
   publisher: ACM Transactions on Human-Robot Interaction
   date: '2022-07-13'
   link: https://doi.org/gtfkjz
-  type: journal
   tags:
+  - Journal
   - metrics
   - survey
   - self-assessment
@@ -136,8 +135,8 @@
     Intelligence
   date: '2021-08-01'
   link: https://doi.org/gn78pz
-  type: conference
   tags:
+  - Conference
   - human-in-the-loop ML
   - survey
   - human factors
@@ -155,8 +154,8 @@
   publisher: Frontiers in Robotics and AI
   date: '2021-11-05'
   link: https://doi.org/gtfkj4
-  type: journal
   tags:
+  - Journal
   - tool use
   - co-creativity
   - learning from corrections
@@ -171,8 +170,8 @@
   publisher: Artificial Intelligence
   date: '2021-11-01'
   link: https://doi.org/gk52hh
-  type: journal
   tags:
+  - Journal
   - task representations
   - abstraction
   plugin: sources.py
@@ -183,8 +182,8 @@
   - Tesca Fitzgerald
   date: '2020-07-06'
   publisher: Georgia Institute of Technology
-  type: thesis
   tags:
+  - Thesis
   - transfer learning
   - learning from demonstration
   - learning from corrections
@@ -200,8 +199,8 @@
   publisher: Intl. Conf. on Autonomous Agents and Multi-Agent Systems (AAMAS)
   date: '2019-05-08'
   link: https://dl.acm.org/doi/10.5555/3306127.3331842
-  type: conference
   tags:
+  - Conference
   - tool use
   - learning from corrections
   buttons:
@@ -218,8 +217,8 @@
   publisher: ACM Transactions on Human-Robot Interaction
   date: '2018-07-31'
   link: https://doi.org/ghgbcp
-  type: journal
   tags:
+  - Journal
   - tool use
   - learning from corrections
   buttons:
@@ -235,8 +234,8 @@
   - Andrea Thomaz
   date: '2017-06-19'
   publisher: Intl. Conf. on Computational Creativity (ICCC)
-  type: conference
   tags:
+  - Conference
   - co-creativity
   plugin: sources.py
   file: sources.yaml
@@ -249,8 +248,8 @@
   - Ashok Goel
   date: '2016-06-23'
   publisher: Conference on Advances in Cognitive Systems (ACS)
-  type: conference
   tags:
+  - Conference
   - transfer learning
   - object mapping
   plugin: sources.py
@@ -265,8 +264,8 @@
   publisher: ACM/IEEE Intl. Conf. on Human Robot Interaction (HRI)
   date: '2016-03-07'
   link: https://dl.acm.org/doi/abs/10.5555/2906831.2906869
-  type: conference
   tags:
+  - Conference
   - affordances
   plugin: sources.py
   file: sources.yaml
@@ -281,8 +280,8 @@
   publisher: Case-Based Reasoning Research and Development
   date: '2015-01-01'
   link: https://doi.org/gtfkj8
-  type: conference
   tags:
+  - Conference
   - analogical reasoning
   plugin: sources.py
   file: sources.yaml
@@ -295,8 +294,8 @@
     Human-Robot Interaction Extended Abstracts
   date: '2015-03-02'
   link: https://doi.org/ghgpgk
-  type: doctoral-consortium
   tags:
+  - Workshop
   - transfer learning
   - learning from demonstration
   plugin: sources.py
