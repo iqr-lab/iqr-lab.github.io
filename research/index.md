@@ -10,5 +10,5 @@ nav:
 {% include search-box.html %}
 
 {% include search-info.html %}
-{{ site.citations }}
+{{ site.data["citations"] }}
 {% include list.html data="citations" component="citation" style="rich" %}
