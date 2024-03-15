@@ -35,7 +35,7 @@
       {{ citation.title | default: "[no title info]" }}
     </a>
 
-    {% assign background = "color:" | append: type.color | append ";" %} 
+    {% assign background = "color:" | append: type.color | append: ";" %} 
     <div class="tags">
       <p class="tag" style="background:{{ type.color }};">
         {{ type.text }}
