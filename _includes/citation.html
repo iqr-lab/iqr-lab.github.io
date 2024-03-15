@@ -35,10 +35,6 @@
       {{ citation.title | default: "[no title info]" }}
     </a>
 
-    <div class="tag" style="background:{{ type.color }};">
-      {{ type.text }}
-    </div>
-
     <div
       class="citation-authors"
       {% if citation.authors.size > 10 %}
@@ -94,7 +90,11 @@
           {% endfor %}
         {% endif %}
       </div>
-      {{ " " }}
+
+      <div class="tag" style="background:{{ type.color }};">
+        {{ type.text }}
+      </div>
+
       {% if citation.tags.size > 0 or citation.repo %}
         {% include tags.html tags=citation.tags repo=citation.repo %}
       {% endif %}
