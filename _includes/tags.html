@@ -18,15 +18,15 @@
   >
     {% for tag in tags %}
       {% if tag == "Conference" %}
-        background = "background: #a727ba;"
+        {% assign background = "background: #a727ba;" %}
       {% elsif tag == "Workshop" %}
-        background = "background: #1f9458;"
+        {% assign background = "background: #1f9458;" %}
       {% elsif tag == "Journal" %}
-        background = "background: #4417ad;"
+        {% assign background = "background: #4417ad;" %}
       {% elsif tag == "Book" %}
-        background = "background: #8f3210;"
+        {% assign background = "background: #8f3210;" %}
       {% else %}
-        background = ""
+        {% assign background = "" %}
       {% endif %}
       <a
         href="{{ link }}?search=&quot;tag: {{ tag }}&quot;"
