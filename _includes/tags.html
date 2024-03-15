@@ -18,13 +18,15 @@
   >
     {% for tag in tags %}
       {% if tag == "Conference" %}
-        {% assign background = "background: #a727ba;" %}
+        {% assign background = "background: #de90d3;" %}
       {% elsif tag == "Workshop" %}
-        {% assign background = "background: #1f9458;" %}
+        {% assign background = "background: #4fa87b;" %}
       {% elsif tag == "Journal" %}
-        {% assign background = "background: #4417ad;" %}
+        {% assign background = "background: #8564d1;" %}
       {% elsif tag == "Book" %}
-        {% assign background = "background: #8f3210;" %}
+        {% assign background = "background: #e64e17;" %}
+      {% elsif tag == "Thesis" %}
+        {% assign background = "background: #debb10;" %}
       {% else %}
         {% assign background = "" %}
       {% endif %}

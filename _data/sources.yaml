@@ -7,7 +7,6 @@
     - Tesca Fitzgerald
   publisher: HRI Workshop on Human-Interactive Robot Learning
   date: "2024-03-15"
-  type: workshop
   project: learning-from-corrections
   tags:
     - Workshop
@@ -26,9 +25,9 @@
     - Tesca Fitzgerald
   publisher: HRI Workshop on Social Signal Modeling in Human-Robot Interaction
   date: "2024-03-11"
-  type: workshop
   project: mental-models
   tags:
+    - Workshop
     - mental models
     - human-robot teaming
     
@@ -40,9 +39,9 @@
     - Tesca Fitzgerald
   publisher: HRI Workshop on Lifelong Learning and Personalization in Long-Term HRI
   date: "2024-03-11"
-  type: workshop
   project: learning-from-corrections
   tags:
+    - Workshop
     - inverse reinforcement learning
     - learning from corrections
     - user study
@@ -57,9 +56,9 @@
     - Tesca Fitzgerald
   publisher: CoRL Workshop on Language and Robot Learning
   date: "2023-11-06"
-  type: workshop 
   project: llms
   tags:
+    - Workshop
     - LLMs
     - ambiguity
     - self-assessment
@@ -82,8 +81,8 @@
     - Henny Admoni
   publisher: Conference on Robot Learning (CoRL)
   date: "2022-12-14"
-  type: conference
   tags:
+    - Conference
     - inverse reinforcement learning
     - learning from demonstrations
     - learning from corrections
@@ -97,8 +96,8 @@
 
 # Metrics for Robot Proficiency Self-assessment and Communication of Proficiency in Human-robot Teams
 - id: doi:10.1145/3522579
-  type: journal
   tags:
+    - Journal
     - metrics
     - survey
     - self-assessment
@@ -108,8 +107,8 @@
 
 # Understanding the Relationship between Interactions and Outcomes in Human-in-the-Loop Machine Learning
 - id: doi:10.24963/ijcai.2021/599
-  type: conference
   tags:
+    - Conference
     - human-in-the-loop ML
     - survey
     - human factors
@@ -119,16 +118,16 @@
 
 # Modeling and Learning Constraints for Creative Tool Use
 - id: doi:10.3389/frobt.2021.674292
-  type: journal
   tags:
+    - Journal
     - tool use
     - co-creativity
     - learning from corrections
 
 # Abstraction in data-sparse task transfer
 - id: doi:10.1016/j.artint.2021.103551
-  type: journal
   tags:
+    - Journal
     - task representations
     - abstraction
  
@@ -141,8 +140,8 @@
     - Tesca Fitzgerald
   date: "2020-07-06"
   publisher: Georgia Institute of Technology
-  type: thesis
   tags:
+    - Thesis
     - transfer learning
     - learning from demonstration
     - learning from corrections
@@ -154,8 +153,8 @@
   title: "Human-guided Trajectory Adaptation for Tool Transfer"
   publisher: Intl. Conf. on Autonomous Agents and Multi-Agent Systems (AAMAS)
   date: "2019-05-08"
-  type: conference
   tags:
+    - Conference
     - tool use
     - learning from corrections
   authors:
@@ -172,8 +171,8 @@
 
 # Human-Guided Object Mapping for Task Transfer
 - id: doi:10.1145/3277905
-  type: journal
   tags:
+    - Journal
     - tool use
     - learning from corrections
   buttons:
@@ -191,8 +190,8 @@
     - Andrea Thomaz
   date: "2017-06-19"
   publisher: Intl. Conf. on Computational Creativity (ICCC)
-  type: conference
   tags:
+    - Conference
     - co-creativity
 
 
@@ -207,8 +206,8 @@
     - Ashok Goel
   date: "2016-06-23"
   publisher: Conference on Advances in Cognitive Systems (ACS)
-  type: conference
   tags:
+    - Conference
     - transfer learning
     - object mapping
 
@@ -220,21 +219,21 @@
     - Vivian Chu
     - Tesca Fitzgerald
     - Andrea Thomaz
-  type: conference
   tags:
+    - Conference
     - affordances
 
 ## 2015 ##
 
 # Visual Case Retrieval for Interpreting Skill Demonstrations
 - id: doi:10.1007/978-3-319-24586-7_9
-  type: conference
   tags:
+    - Conference
     - analogical reasoning
 
 # Skill Demonstration Transfer for Learning from Demonstration (HRI Pioneers)
 - id: doi:10.1145/2701973.2702728
-  type: doctoral-consortium
   tags:
+    - Workshop
     - transfer learning
     - learning from demonstration
