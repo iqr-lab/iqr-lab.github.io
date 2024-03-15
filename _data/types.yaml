@@ -148,35 +148,30 @@ error:
 
 # publications
 
+conference:
+  text: Conference
+  tooltip: Conference Paper
+  color: "#a727ba"
+
+workshop:
+  text: Workshop
+  tooltip: Workshop Paper
+  color: "#1f9458"
+
+book:
+  text: Book
+  tooltip: Book
+  color: "#8f3210"
+
+journal:
+  text: Journal
+  tooltip: Journal
+  color: "#4417ad"
+
 pdf:
   icon: fa-solid fa-file-pdf
   text: PDF
   tooltip: PDF
-
-conference:
-  icon: fa-solid fa-scroll
-  text: Conference
-  tooltip: Conference Paper
-
-workshop:
-  icon: fa-solid fa-scroll
-  text: Workshop
-  tooltip: Workshop Paper
-
-book:
-  icon: fa-solid fa-book
-  text: Book
-  tooltip: Book
-
-article:
-  icon: fa-solid fa-newspaper
-  text: Article
-  tooltip: Article
-
-journal:
-  icon: fa-regular fa-newspaper
-  text: Journal
-  tooltip: Journal
 
 video:
   icon: fa-solid fa-video

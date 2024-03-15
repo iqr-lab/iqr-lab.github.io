@@ -35,8 +35,11 @@
       {{ citation.title | default: "[no title info]" }}
     </a>
 
+    {% assign background = "color:" | append: type.color | append ";" %} 
     <div class="tags">
-      {{ type }}
+      <p class="tag" style="background:{{ type.color }};">
+        {{ type.text }}
+      </p>
     </div>
 
     <div
@@ -94,7 +97,7 @@
           {% endfor %}
         {% endif %}
       </div>
-
+      {{ " " }}
       {% if citation.tags.size > 0 or citation.repo %}
         {% include tags.html tags=citation.tags repo=citation.repo %}
       {% endif %}
