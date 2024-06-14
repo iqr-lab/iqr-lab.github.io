@@ -1,8 +1,8 @@
 ---
 name: Nicholas Abram
 image: images/team/nicholas.jpeg
-role: undergrad
-description: Visiting udergrad in Computer Science at Howard University
+role: research assistant
+description: Visiting Undergrad in Computer Science at Howard University
 links:
   linkedin: nicholas-abram-a105a020a/
 ---
