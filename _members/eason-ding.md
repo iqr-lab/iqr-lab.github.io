@@ -1,7 +1,7 @@
 ---
 name: Eason Ding
 image: images/team/eason.jpeg
-role: research assistant
+role: ra
 description: Graduated MSCS student at Yale
 links:
   email: eason.ding@yale.edu
