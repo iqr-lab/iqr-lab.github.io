@@ -15,5 +15,7 @@ We are a team of scientists, superpets and robotic arms.
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: master" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: ra" %}
 {% include list.html data="members" component="portrait" filters="role: mascot" %}
