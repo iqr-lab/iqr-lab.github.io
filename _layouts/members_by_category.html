@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>Lab Members</h1>
+
+{% assign roles = site.data.types.roles %}
+{% assign members = site.members | group_by: "role" %}
+
+{% for role in roles %}
+  <h2>
+    <i class="{{ role[1].icon }}"></i> {{ role[1].description }}
+  </h2>
+  <ul>
+    {% for member in members %}
+      {% if member.name == role[0] %}
+        {% for item in member.items %}
+          <li>{{ item.name }} - {{ item.title }}</li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
