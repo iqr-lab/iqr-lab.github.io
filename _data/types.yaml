@@ -26,6 +26,16 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+research assistant:
+  icon: fa-solid fa-laptop-code
+  description: Research Assistant
+
+master:
+  icon: fa-solid fa-book-open
+  description: Master Student
+
+
+
 # general
 
 link:
