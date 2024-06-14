@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 6
   tooltip: About our team
 header: images/iqr_background.png
 footer: images/iqr_background.png
