@@ -18,9 +18,9 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+research_assist:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Research Assistant
 
 mascot:
   icon: fa-solid fa-dog
@@ -29,10 +29,6 @@ mascot:
 master:
   icon: fa-solid fa-book-open
   description: Master Student
-
-research_assist:
-  icon: fa-solid fa-code
-  description: Research Assistant
 
 
 # general
