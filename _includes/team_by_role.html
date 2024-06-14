@@ -1,0 +1,10 @@
+{% assign roles = site.members | group_by: "role" %}
+{% for role in roles %}
+  <h3>{{ role.name }}</h3>
+  {% assign role_members = role.items %}
+  {% for member in role_members %}
+    {# Render member information here #}
+    {{ member.name }} - {{ member.role }}
+    {# Include any necessary templates or HTML for displaying member information #}
+  {% endfor %}
+{% endfor %}
