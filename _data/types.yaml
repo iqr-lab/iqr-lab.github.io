@@ -19,7 +19,7 @@ undergrad:
   description: Undergraduate Student
 
 research_assist:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-book-open
   description: Research Assistant
 
 mascot:
