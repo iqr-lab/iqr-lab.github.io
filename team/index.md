@@ -12,10 +12,23 @@ footer: images/iqr_background.png
 We are a team of scientists, superpets and robotic arms.
 
 {% include section.html %}
-
+PI
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include section.html %}
+PhD Students
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include section.html %}
+Master Students
 {% include list.html data="members" component="portrait" filters="role: master" %}
+{% include section.html %}
+Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include section.html %}
+Research Assistants
 {% include list.html data="members" component="portrait" filters="role: research_assist" %}
+{% include section.html %}
+The Most Important Members
 {% include list.html data="members" component="portrait" filters="role: mascot" %}
+{% include section.html %}
+Alumini
+{% include list.html data="members" component="portrait" filters="role: alum" %}
