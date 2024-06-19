@@ -43,9 +43,9 @@ layout: default
 {%- endcapture %}
 
 <div class="additional-images">
-    {% for image in page.additional_images %}
-        <img src="{{ image | relative_url }}" alt="{{ page.name }} additional image" class="additional-image">
-    {% endfor %}
+  {% for image in page.additional_images %}
+    <img src="{{ image | relative_url }}" alt="{{ page.name }} additional image" style="width: 100px; height: auto;">
+  {% endfor %}
 </div>
 
 <!--
