@@ -44,9 +44,19 @@ layout: default
 
 <div class="additional-images">
   {% for image in page.additional_images %}
+    <div class="crop-container">
+      <img src="{{ image | relative_url }}" alt="{{ page.name }} additional image" class="cropped-image">
+    </div>
+  {% endfor %}
+</div>
+
+<!--
+<div class="additional-images">
+  {% for image in page.additional_images %}
     <img src="{{ image | relative_url }}" alt="{{ page.name }} additional image" style="width: 100px; height: auto;">
   {% endfor %}
 </div>
+-->
 
 <!--
 <p class="center">
