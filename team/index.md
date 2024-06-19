@@ -30,5 +30,5 @@ Research Assistants
 The Most Important Members
 {% include list.html data="members" component="portrait" filters="role: mascot" %}
 {% include section.html %}
-Alumini
+Alumnus
 {% include list.html data="members" component="portrait" filters="role: alum" %}
