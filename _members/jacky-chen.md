@@ -1,7 +1,7 @@
 ---
 name: Jacky Chen
 image: images/team/jacky.jpg
-role: undergrad
+role: alum
 description: Undergraduate Student in Computer Science
 links:
   email: jacky.chen@yale.edu
