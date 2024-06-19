@@ -30,6 +30,10 @@ master:
   icon: fa-solid fa-book-open
   description: Master Student
 
+alum:
+  icon: fa-regular fa-handshake
+  description: Alumnus
+
 
 # general
 
