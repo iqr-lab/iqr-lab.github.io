@@ -1,12 +1,19 @@
-.main-image {
-    width: 200px; /* Adjust this size as needed */
-    height: auto;
-    border-radius: 50%; /* Optional: to make the image round */
+.additional-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Adjust the gap between images if needed */
 }
 
-.additional-image {
-    width: 100px; /* Adjust this size as needed */
-    height: auto;
-    margin: 5px;
-    border-radius: 10%; /* Optional: for slightly rounded corners */
+.crop-container {
+  width: 150px; /* Set the desired width */
+  height: 150px; /* Set the desired height */
+  overflow: hidden; /* Hide the overflow to crop the image */
+  position: relative; /* Create a positioning context */
+}
+
+.cropped-image {
+  width: 100%; /* Make the image fill the container */
+  height: 100%; /* Make the image fill the container */
+  object-fit: cover; /* Crop the image to cover the container */
+  object-position: center; /* Center the image within the container */
 }
