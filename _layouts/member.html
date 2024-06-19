@@ -6,11 +6,11 @@ layout: default
 
 {% include portrait.html lookup=page.slug %}
 
-  <div class="additional-images">
-      {% for image in page.additional_images %}
-          <img src="{{ image }}" alt="{{ page.name }} additional image" class="additional-image">
-      {% endfor %}
-  </div>
+<div class="additional-images">
+    {% for image in page.additional_images %}
+        <img src="{{ image | relative_url }}" alt="{{ page.name }} additional image" class="additional-image">
+    {% endfor %}
+</div>
 
 <div>
   {% for link in page.links %}
