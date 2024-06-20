@@ -27,8 +27,9 @@ Undergraduate Students
 Research Assistants
 {% include list.html data="members" component="portrait" filters="role: research_assist" %}
 {% include section.html %}
-The Most Important Members
-{% include list.html data="members" component="portrait" filters="role: mascot" %}
-{% include section.html %}
 Alumnus
 {% include list.html data="members" component="portrait" filters="role: alum" %}
+{% include section.html %}
+The Most Important Members
+{% include list.html data="members" component="portrait" filters="role: mascot" %}
+
