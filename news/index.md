@@ -1,7 +1,7 @@
 ---
 title: News
 nav:
-  order: 3
+  order: 5
   tooltip: Published works
 ---
 
