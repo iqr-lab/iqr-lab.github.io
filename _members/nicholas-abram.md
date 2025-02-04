@@ -1,7 +1,7 @@
 ---
 name: Nicholas Abram
 image: images/team/nicholas.jpeg
-role: alumni
+role: alum
 description: Visiting Undergrad in Computer Science at Howard University
 links:
   linkedin: nicholas-abram-a105a020a/
