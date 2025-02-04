@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 5
-  tooltip: Published works
+  tooltip: New Updates from the lab
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
