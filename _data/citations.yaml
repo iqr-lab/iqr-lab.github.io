@@ -18,8 +18,8 @@
   plugin: sources.py
   file: sources.yaml
 - link: https://arxiv.org/abs/2410.23266
-  title: 'TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation
-    Models'
+  title: "\U0001F345 TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal\
+    \ Foundation Models"
   authors:
   - Ziyao Shangguan
   - Chuhan Li
