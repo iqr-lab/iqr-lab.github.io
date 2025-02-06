@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- link: https://arxiv.org/abs/2501.03515
+  title: Effects of Robot Competency and Motion Legibility on Human Correction Feedback
+  authors:
+  - Shuangge Wang
+  - Anjiabei Wang
+  - Sofiya Goncharova
+  - Brian Scassellati
+  - Tesca Fitzgerald
+  publisher: HRI 2025
+  date: '2025-03-03'
+  tags:
+  - conference
+  - Interactive Robot Learning
+  - Learning from Corrections
+  - Kinesthetic Teaching
+  plugin: sources.py
+  file: sources.yaml
+- link: https://arxiv.org/abs/2410.23266
+  title: 'TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation
+    Models'
+  authors:
+  - Ziyao Shangguan
+  - Chuhan Li
+  - Yuxuan Ding
+  - Yanan Zheng
+  - Yilun Zhao
+  - Tesca Fitzgerald
+  - Arman Cohan
+  publisher: ICLR 2025
+  date: '2025-04-24'
+  tags:
+  - conference
+  - visual-temporal reasoning
+  - video understanding
+  - benchmark
+  - vision-language benchmark
+  - video-language models
+  - evaluation
+  plugin: sources.py
+  file: sources.yaml
 - link: https://iqr.cs.yale.edu/pubs/wang-fitzgerald-hirl24-legibility.pdf
   title: Legibility-Aware Learning from Corrections
   authors:
