@@ -15,8 +15,8 @@ Our paper "Effects of Robot Competency and Motion Legibility on Human Correction
 
 {%
   include button.html
-  link= https://arxiv.org/abs/2501.03515
-  text="Papaer"
+  link="https://arxiv.org/abs/2501.03515"
+  text="Paper"
   flip=true
   style="bare"
 %}
@@ -27,8 +27,8 @@ Our paper "🍅 TOMATO: Assessing Visual Temporal Reasoning Capabilities in Mult
 
 {%
   include button.html
-  link= https://arxiv.org/abs/2410.23266
-  text="Papaer"
+  link="https://arxiv.org/abs/2501.03515"
+  text="Paper"
   flip=true
   style="bare"
 %}
