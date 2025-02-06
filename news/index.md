@@ -17,5 +17,7 @@ Latest news from our lab!
 
 {% include search-info.html %}
 
-{% include list.html data="news" component="post-excerpt" %}
+Our paper "Effects of Robot Competency and Motion Legibility on Human Correction Feedback" is accepted to HRI 2025!
+
+Our paper  "🍅 TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models" is accepted to ICLR 2025!
 
