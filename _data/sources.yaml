@@ -1,7 +1,7 @@
 ## 2025 ##
 
 - link: https://arxiv.org/abs/2501.03515
-  title: Effects of Robot Competency and Motion Legibility on Human Correction Feedback
+  title: "Effects of Robot Competency and Motion Legibility on Human Correction Feedback"
   authors:
     - Shuangge Wang
     - Anjiabei Wang
@@ -15,12 +15,9 @@
     — Interactive Robot Learning
     - Learning from Corrections
     - Kinesthetic Teaching
-  buttons:
-    - type: paper
-      link: https://arxiv.org/abs/2501.03515
 
 - link: https://arxiv.org/pdf/2410.23266
-  title: TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models
+  title: "TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models"
   authors:
     - Ziyao Shangguan
     - Chuhan Li
@@ -39,9 +36,6 @@
     - vision-language benchmark
     - video-language models 
     - evaluation
-  buttons:
-    - type: paper
-      link: https://arxiv.org/pdf/2410.23266
 
 - link: https://arxiv.org/pdf/2410.23266
   title: TOMATO: ASSESSING VISUAL TEMPORAL REASONING CAPABILITIES IN MULTIMODAL FOUNDATION MODELS
