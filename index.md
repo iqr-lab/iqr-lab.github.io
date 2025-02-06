@@ -11,27 +11,13 @@ Our research is centered around interactive robot learning. As robots become mor
 
 {% capture text %}
 
-Our paper "Effects of Robot Competency and Motion Legibility on Human Correction Feedback" is accepted to HRI 2025!
-
-{%
-  include button.html
-  link="https://arxiv.org/abs/2501.03515"
-  text="Paper"
-  flip=true
-  style="bare"
-%}
+Our paper *["Effects of Robot Competency and Motion Legibility on Human Correction Feedback"](https://arxiv.org/abs/2501.03515)* is accepted to HRI 2025!
 
 {% endcapture %}
 
-Our paper "🍅 TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models" is accepted to ICLR 2025!
+{% capture text %}
 
-{%
-  include button.html
-  link="https://arxiv.org/abs/2501.03515"
-  text="Paper"
-  flip=true
-  style="bare"
-%}
+Our paper *["🍅 TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models"](https://arxiv.org/abs/2501.03515)* is accepted to ICLR 2025!
 
 {% endcapture %}
 
