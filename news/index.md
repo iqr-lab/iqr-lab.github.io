@@ -5,9 +5,9 @@ nav:
   tooltip: New Updates from the lab
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Check out lab related updates in chronological below, or directly search for updates by their tags.
+Latest news from our lab!
 
 {% include section.html %}
 
