@@ -12,11 +12,11 @@
   date: "2025-03-03"
   tags:
     - conference
-    — Interactive Robot Learning
+    - Interactive Robot Learning
     - Learning from Corrections
     - Kinesthetic Teaching
 
-- link: https://arxiv.org/pdf/2410.23266
+- link: https://arxiv.org/abs/2410.23266
   title: "TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models"
   authors:
     - Ziyao Shangguan
@@ -30,11 +30,11 @@
   date: "2025-04-24"
   tags:
     - conference
-    - visual temporal reasoning 
+    - visual-temporal reasoning
     - video understanding
     - benchmark
     - vision-language benchmark
-    - video-language models 
+    - video-language models
     - evaluation
 
 
