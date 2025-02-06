@@ -17,5 +17,5 @@ Check out lab related updates in chronological below, or directly search for upd
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include list.html data="news" component="post-excerpt" %}
 
