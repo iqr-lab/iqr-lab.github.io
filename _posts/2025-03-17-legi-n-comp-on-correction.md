@@ -11,6 +11,7 @@ authors:
   # - Sofiya Goncharova
   # - Brian Scassellati
   # - Tesca Fitzgerald
+image: images/blog/corrections.png
 ---
 
 
