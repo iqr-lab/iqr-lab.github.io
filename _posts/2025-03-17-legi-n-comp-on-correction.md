@@ -33,7 +33,7 @@ A3: there is a tradeoff between task and effort. The task here could be task acc
 
 Are these assumptions true? or…are there other factors that influence how people give corrections?
 
-From prior work, we expect two robot behaviors competency and legibility to affect trust, which affects human feedback.
+From prior work, we expect two robot behaviors *competency* and *legibility* to affect trust, which affects human feedback.
 
 A robot with higher competency is more likely to succeed while one with lower competency is more likely to fail; legibility describes how clear the robot is able to express its intent - If the robot is going to goal A the trajectory above is more exaggerated so it is more legible than the one below. Here is a more legible trajectory that is more exaggerated; a more predictable trajectory that is more direct and short; and an illegible trajectory that is more misleading and confusing.
 
@@ -43,23 +43,23 @@ To answer the question, we designed our study which is a long horizon pick-and-p
 
 We want to study the effect of robot competency and legibility on human correction feedback and how they align with the three assumptions.
 
-Here is our result
+Here is our result:
 
-A1: prior trust based literature suggested that higher competence from the robot induces higher trust from humans so we expect that the human to give corrections closer to the mistakes) Is this true
+A1: prior trust based literature suggested that higher competence from the robot induces higher trust from humans so we expect that the human to give corrections closer to the mistakes). Is this true?
 
 Guess what, NO! 
-People correct competent robots further from the mistakes than incompetent robots (except when the robot is being illegible)
+People correct competent robots further from the mistakes than incompetent robots (except when the robot is being illegible).
 Our intuition: humans’ expectation is high for competent robots, so they are less accepting.
 
 A2: prior trust based literature suggested that higher competence from the robot induces higher trust from humans so we expect humans to overpredict success. When supervising incompetent robots, do people tend to over-correct?
 
 Guess what, NO! 
-People under-correct incompetent robots; people over-correct competent robots
+People under-correct incompetent robots; people over-correct competent robots.
 Intuition: Lower competency leads to lower expectation, so humans don’t care as much, while higher comp leads to higher expectation, so humans are demanding. 
 
 A3: There is a tradeoff between task and effort. 
 
 Guess what? YES!
-There IS a trade-off between task and effort, but its strength depends on competency and legibility conditions
+There IS a trade-off between task and effort, but its strength depends on competency and legibility conditions.
 
-Based on our findings, the prior assumptions on human feedback don’t necessarily hold when we are looking at various conditions for corrections. We also have cool implications for designers and learning researchers in our paper. Please check out our paper if you are interested!
+Based on our findings, the prior assumptions on human feedback don’t necessarily hold when we are looking at various conditions for corrections. We also have cool implications for interaction designers and learning researchers in our paper. Please check out our paper if you are interested!
