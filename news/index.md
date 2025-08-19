@@ -17,6 +17,8 @@ Latest news from our lab!
 
 {% include search-info.html %}
 
+Our paper “TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization” is accepted to CoRL 2025!
+
 Our paper "Effects of Robot Competency and Motion Legibility on Human Correction Feedback" is accepted to HRI 2025!
 
 Our paper  "🍅 TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models" is accepted to ICLR 2025!
