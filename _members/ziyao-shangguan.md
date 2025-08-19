@@ -1,7 +1,7 @@
 ---
 name: Ziyao Shangguan
 image: images/team/ziyao.jpeg
-role: master
+role: phd
 description: Master student in Computer Science
 links:
   email: ziyao.shangguan@yale.edu
