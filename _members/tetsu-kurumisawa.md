@@ -1,7 +1,7 @@
 ---
 name: Tetsu Kurumisawa
 image: images/team/tetsu.jpeg
-role: undergrad
+role: alum
 description: Undergraduate student in Computer Science & Cognitive Science
 links:
   email: tetsu.kurumisawa@yale.edu
