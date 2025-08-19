@@ -1,7 +1,7 @@
 ---
 name: Daniel Wu
 image: images/team/daniel-wu.jpeg
-role: undergrad
+role: alum
 description: Undergraduate Student in Computer Science & Economics
 links:
   email: daniel.wu@yale.edu
