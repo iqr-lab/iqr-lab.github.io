@@ -1,6 +1,6 @@
 ---
 name: William Zhong
-image: images/team/william.jpg
+image: images/team/william.jpeg
 role: undergrad
 description: Undergraduate Student in Computer Science
 links:
