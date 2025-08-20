@@ -5,7 +5,7 @@ role: undergrad
 description: Undergraduate Student in Computer Science
 links:
   email: 
-  github: 
+  github: https://github.com/genesisband
   google-scholar: 
   linkedin: 
 ---
