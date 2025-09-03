@@ -9,7 +9,7 @@ Our research is centered around interactive robot learning. As robots become mor
 
 ## News
 
-Our paper *["TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization"](https://iqr.cs.yale.edu/tref-6/TReF_6__Inferring_Task_Relevant_Frames_from_a_Single_Demonstration_for_One_Shot_Skill_Generalization_CoRL_2025.pdf)* is accepted to CoRL 2025!
+Our paper *["TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization"](https://arxiv.org/abs/2509.00310)* is accepted to CoRL 2025!
 
 Our paper *["Effects of Robot Competency and Motion Legibility on Human Correction Feedback"](https://ieeexplore.ieee.org/abstract/document/10974241)* is accepted to HRI 2025!
 
