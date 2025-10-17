@@ -1,6 +1,6 @@
 ---
 name: Yuang Lu
-image: images/team/YuangLu.jpg
+image: images/team/yuang.jpg
 role: master
 description: Master student in Mechanical Engineering & Materials Science
 links:
