@@ -1,6 +1,6 @@
 ---
 name: Stephanie Wan
-image: images/team/Stephanie.jpeg
+image: images/team/stephanie.jpeg
 role: undergrad
 description: Undergraduate Student in Computer Science and Mathematics
 links:
