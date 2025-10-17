@@ -1,7 +1,7 @@
 ---
 name: Yuang Lu
 image: images/team/YuangLu.jpg
-role: Master
+role: master
 description: Master student in Mechanical Engineering & Materials Science
 links:
   email: yuang.lu@yale.edu
