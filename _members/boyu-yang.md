@@ -1,6 +1,6 @@
 ---
 name: Boyu yang
-image: images/team/boyu.jpeg
+image: images/team/boyu.jpg
 role: master
 description: Master student in Computer Science
 links:
