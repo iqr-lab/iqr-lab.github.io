@@ -18,11 +18,9 @@ PI
 PhD Students
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include section.html %}
-<!--
 Master Students
 {% include list.html data="members" component="portrait" filters="role: master" %}
 {% include section.html %}
--->
 Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include section.html %}
