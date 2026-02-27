@@ -1,3 +1,20 @@
+## 2026 ##
+
+- link: https://arxiv.org/abs/2602.18603
+  title: "Enhancing Goal Inference via Correction Timing"
+  authors:
+    - Anjiabei Wang
+    - Shuangge Wang
+    - Tesca Fitzgerald
+  publisher: AAMAS 2026
+  date: "2026-05-25"
+  tags:
+    - conference
+    - Interactive Robot Learning
+    - Learning from Corrections
+
+
+
 ## 2025 ##
 
 - link: https://iqr.cs.yale.edu/pubs/TReF_6__Inferring_Task_Relevant_Frames_from_a_Single_Demonstration_for_One_Shot_Skill_Generalization_CoRL_2025.pdf
