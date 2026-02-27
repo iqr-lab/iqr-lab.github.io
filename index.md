@@ -9,6 +9,8 @@ Our research is centered around interactive robot learning. As robots become mor
 
 ## News
 
+Our paper *["Enhancing Goal Inference via Correction Timing"](https://arxiv.org/abs/2602.18603)* is accepted to AAMAS 2026!
+
 Our paper *["TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization"](https://arxiv.org/abs/2509.00310)* is accepted to CoRL 2025!
 
 Our paper *["Effects of Robot Competency and Motion Legibility on Human Correction Feedback"](https://ieeexplore.ieee.org/abstract/document/10974241)* is accepted to HRI 2025!
