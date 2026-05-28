@@ -6,8 +6,4 @@ description: PhD Student in Computer Science
 email: anushka.potdar@yale.edu
 ---
 
-Hi! I'm Anushka, and I'm a PhD student in Computer Science at Yale University in the Inquisitive Robotics Lab, advised by Tesca Fitzgerald. 
-
-My research vision is driven by my goal to contribute to enabling astronauts to explore deep space. Enabling astronauts to explore deep space requires astronauts to be able to solve complex problems without relying on experts on Earth due to space/ground communication delays and/or lack of communication. 
-
-My research goal is to draw from established collaboration strategies humans use to solve problems in safety-critical situations to develop agents that can collaborate with astronauts to solve emergency anomalies.
+Anushka Potdar is a fourth year Ph.D. student in Computer Science at Yale University, advised by Tesca Fitzgerald. Her research aims to create AI diagnostic tools to help astronauts solve unexpected problems in space. Outside of her Ph.D. research, Anushka serves as Chair of the Graduate Student Assembly, as a Fellow of Yale’s Graduate Writing Lab, and as a Graduate Affiliate of Yale’s Trumbull College.
